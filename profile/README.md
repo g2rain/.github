@@ -11,7 +11,7 @@
 使用的技术包括：
 
 ## 后端：
-Java(JDK21), Spring(Srping boot4.0), Spring cloud, Spring gateway, Mysql, Redis等常用组件
+Java(JDK25), Spring(Srping boot4.0), Spring cloud, Spring gateway, Mysql, Redis等常用组件
 ## 前端：
 Typescript, Vue3, qiankun(微前端), Vite5, Element plus等组件
 
