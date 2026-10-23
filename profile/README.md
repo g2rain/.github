@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://github.com/g2rain.png" alt="谷雨 G2rain" width="120" />
+  <img src="https://github.com/g2rain.png" alt="谷雨G2rain智能体平台" width="120" />
 </p>
 
-# 谷雨 G2rain 开源 AI Native SaaS 平台
+# 谷雨G2rain智能体平台
 
-**企业级权限管控 + SaaS Agent 编排，让业务能力在明确的授权边界内被使用与组合。**
+**面向企业的开源智能体平台，连接模型、知识与业务工具，让智能体在明确的身份和权限边界内执行任务。**
 
-我们围绕企业应用的长期演进开展开源协作，以 Java 微服务、Vue 3 微前端、知识与 Agent 为主要工程方向，共同建设可扩展、可治理的 AI Native SaaS 平台。
+我们围绕企业应用的长期演进开展开源协作，以 Java 微服务、Vue 3 微前端、知识与 Agent 为主要工程方向，共同建设可扩展、可治理的企业智能体平台。
 
 **[从主仓库开始探索](https://github.com/g2rain/g2rain)** · [官方网站](https://www.g2rain.com) · [平台文档](https://github.com/g2rain/g2rain/blob/main/docs/index.md) · [社区交流](https://github.com/g2rain/g2rain/discussions)
 
@@ -17,14 +17,14 @@
 | 核心方向 | 解决的问题 |
 | --- | --- |
 | **企业级权限管控** | 用组织、应用授权、角色、控制域、控制单元与资源关系，组织租户能力开通和岗位权限；由 IAM、Gateway 与业务服务分层校验 |
-| **SaaS Agent 编排** | 连接知识、业务能力与任务执行，围绕调用身份、租户边界和过程追踪探索智能应用 |
+| **智能体编排** | 连接知识、业务能力与任务执行，围绕调用身份、租户边界和过程追踪探索智能应用 |
 | **应用开发与交付** | 通过微服务、微前端、研发工具与版本化架构规则，让多仓库项目协同演进 |
 
 ## 从知识到对话，看到业务场景
 
 围绕平台入门指南连续提问，回答中显示知识参考来源；管理侧围绕知识版本、发布信息和执行追踪组织操作。
 
-[![谷雨 G2rain 知识问答界面：连续提问与知识参考](https://raw.githubusercontent.com/g2rain/.github/main/profile/assets/knowledge-conversation.png)](https://github.com/g2rain/g2rain#看看谷雨如何连接知识与业务)
+[![谷雨G2rain智能体平台 知识问答界面：连续提问与知识参考](https://raw.githubusercontent.com/g2rain/.github/main/profile/assets/knowledge-conversation.png)](https://github.com/g2rain/g2rain#看看谷雨如何连接知识与业务)
 
 [前往主仓库查看更多界面、权限说明与项目进展 →](https://github.com/g2rain/g2rain)
 
@@ -57,7 +57,7 @@
 
 项目邮箱：[g2rain_developer@163.com](mailto:g2rain_developer@163.com)
 
-**微信一对一交流**：欢迎添加维护者「行者」，交流项目使用、企业权限、知识库与 SaaS Agent 编排。添加时可备注“G2rain + 交流主题”。
+**微信一对一交流**：欢迎添加维护者「行者」，交流项目使用、企业权限、知识库与智能体编排。添加时可备注“G2rain + 交流主题”。
 
 <a href="https://raw.githubusercontent.com/g2rain/.github/main/profile/assets/wechat.jpg">
   <img src="https://raw.githubusercontent.com/g2rain/.github/main/profile/assets/wechat.jpg" alt="维护者行者的微信二维码，扫码进行 G2rain 一对一交流" width="240" />
@@ -65,4 +65,4 @@
 
 扫码不便时，可[打开二维码原图](https://raw.githubusercontent.com/g2rain/.github/main/profile/assets/wechat.jpg)。通用使用问题也欢迎公开交流，方便社区共同参考。
 
-感谢每一位使用、反馈、分享与贡献谷雨 G2rain 的朋友。各项目的许可证请查阅对应仓库。
+感谢每一位使用、反馈、分享与贡献谷雨G2rain智能体平台的朋友。各项目的许可证请查阅对应仓库。
