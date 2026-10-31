@@ -21,6 +21,8 @@
 
 提交前确认 Markdown 链接有效、`git diff --check` 通过，且文档不包含敏感信息。
 
+更新组织首页或对外介绍时，按[统一介绍资料](https://github.com/g2rain/g2rain/blob/main/docs/project-introduction.md)和[平台路线图](https://github.com/g2rain/g2rain/blob/main/docs/roadmap.md)核对名称、能力状态、演示入口与平台范围，避免将云端运营规划写成私有部署的前置依赖。
+
 ## 社区规范
 
 参与者须遵守[行为准则](CODE_OF_CONDUCT.md)。安全问题请遵循[安全报告流程](SECURITY.md)，不要在公开 Issue 中披露未修复漏洞。

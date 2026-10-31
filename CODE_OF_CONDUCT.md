@@ -19,4 +19,4 @@ g2rain 致力于建立友好、包容、专业的开源社区。所有使用者�
 
 本准则适用于 g2rain 的 GitHub 仓库、Issues、Pull Requests、Discussions、活动和其他以 g2rain 名义运营的社区渠道。维护者可视情况采取提醒、编辑或删除内容、限制参与或报告给平台等措施。
 
-如需报告不当行为，请通过 [g2rain/g2rain Discussions](https://github.com/g2rain/g2rain/discussions) 联系维护者；涉及安全漏洞请改用 [SECURITY.md](SECURITY.md) 的私下报告渠道。
+如需报告不当行为，请私下发送至维护者邮箱 [g2rain_developer@163.com](mailto:g2rain_developer@163.com)，说明相关情况并保护涉及人员的隐私。涉及安全漏洞请使用 [SECURITY.md](SECURITY.md) 的私下报告渠道；一般使用问题和公开交流可通过 [Discussions](https://github.com/g2rain/g2rain/discussions)。

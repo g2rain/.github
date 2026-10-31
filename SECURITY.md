@@ -4,7 +4,7 @@
 
 ## 报告方式
 
-优先使用 GitHub 私密安全报告（如目标仓库已启用）。若该渠道不可用，可私下联系维护团队：`g2rain_developer@163.com`。
+优先使用 GitHub 私密安全报告（如目标仓库已启用）。若该渠道不可用，可私下联系维护团队：[g2rain_developer@163.com](mailto:g2rain_developer@163.com)。
 
 报告建议包含：
 
