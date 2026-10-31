@@ -12,11 +12,13 @@
 | [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) | 默认社区行为准则。 |
 | [SECURITY.md](SECURITY.md) | 默认漏洞报告与披露规则。 |
 
-后续可在本仓库增加组织级 Issue/PR 模板、Actions 或其他 GitHub 默认配置。此类配置只应处理跨仓库的协作体验；平台架构、Profile、跨项目 ADR 和项目目录仍由中央文档维护。
+后续可在本仓库增加组织级 Issue/PR 模板、Actions 或其他 GitHub 默认配置。此类配置只应处理跨仓库的协作体验；平台架构、Profile、跨项目 ADR 和项目目录仍由中央文档维护。本仓库当前未提供 Issue/PR 模板或 Actions。
 
 ## 组织首页维护
 
-首页突出“谷雨G2rain智能体平台”的组织定位、企业级权限管控与智能体编排方向，提供代表界面、项目导航和社区联系入口。详细模型、路线图与选型资料链接到主仓库，避免重复维护能力状态。
+首页统一使用“G2rain（谷雨）开源智能体平台”。突出私有部署已可用、实际使用价值与演示入口，并简要区分已可用、开发完成待开放和规划设计中的能力。详细状态、版本和路线图由主仓库维护。
+
+更新首页时同步参考[项目介绍与引用资料](https://github.com/g2rain/g2rain/blob/main/docs/project-introduction.md)和[路线图](https://github.com/g2rain/g2rain/blob/main/docs/roadmap.md)。云端商业化规划不应表述为私有部署的前置条件；不根据仓库名称前缀扩展平台范围。
 
 首页截图与二维码随本仓库发布，图片使用指向本仓库 `main` 分支的绝对地址，供组织主页展示。发布时先确认主仓库首页与目标文档已合入相应分支，再合入本仓库更新；本地复制的素材不代表源项目能力已完成验收。更新公开联系方式应取得维护者授权。
 
@@ -26,3 +28,7 @@
 - [组织默认文档约定](https://github.com/g2rain/g2rain/blob/main/docs/organization-defaults.md)
 - [架构治理](https://github.com/g2rain/g2rain/blob/main/governance/architecture-governance.md)
 - [项目架构目录](https://github.com/g2rain/g2rain/blob/main/docs/architecture/catalog/projects.yaml)
+
+## 许可证
+
+本仓库采用 [Apache License 2.0](LICENSE)。其他项目的协议范围见[平台协议说明](https://github.com/g2rain/g2rain/blob/main/docs/licenses.md)。
